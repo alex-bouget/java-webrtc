@@ -1,0 +1,3 @@
+[submodule "libcpp"]
+	path = libcpp
+	url = https://github.com/paullouisageneau/libdatachannel.git
